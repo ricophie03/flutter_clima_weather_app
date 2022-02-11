@@ -1,7 +1,7 @@
 import 'package:flutter_clima_weather_app/services/location.dart';
 import 'package:flutter_clima_weather_app/services/networking.dart';
 
-const String myAPIKey = '73e204a4944fd55e0d93bbc54d8346cc';
+const String myAPIKey = ''; // masukkan API key
 const String openWeatherMapURL =
     'https://api.openweathermap.org/data/2.5/weather';
 
